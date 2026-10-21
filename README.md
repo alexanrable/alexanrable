@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alexander
 
-<!--
-**alexanrable/alexanrable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into IT roles focused on web development, software testing, and technical operations.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developed and deployed a live web advertising marketplace: [WebMargaritas](https://www.webmargaritas.com/)
+- Hands-on experience with frontend and backend development
+- Worked with Linux server environments, Nginx, and PM2
+- Use Git and GitHub for version control
+- Write Python scripts for automation and data processing
+- Currently expanding my skills in software testing, SQL, and technical troubleshooting
+
+## Featured Project
+
+### [WebMargaritas Portfolio](https://github.com/alexanrable/webmargaritas-portfolio)
+
+A public case study of a web marketplace I developed and deployed. The repository includes project screenshots and technical documentation, while the application source code remains private.
+
+## Technologies
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Python` `Git` `Linux` `Nginx` `PM2` `SQL`
+
+## Contact
+
+- Website: [webmargaritas.com](https://www.webmargaritas.com/)
+- GitHub: [@alexanrable](https://github.com/alexanrable)
+- Telegram [@alex_webmargaritas](https://t.me/alex_webmargaritas)
